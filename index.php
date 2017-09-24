@@ -32,7 +32,7 @@ include "config.php";
                 </div>
             </div>
         </div>
-        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) หมายเหตุ-->
  <?
 include("footer.php");
  ?>
